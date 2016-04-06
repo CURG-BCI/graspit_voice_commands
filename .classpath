@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/voce.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="/home/srihari/Downloads/voce-0.9.1/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
