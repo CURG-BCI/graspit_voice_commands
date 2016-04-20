@@ -73,8 +73,8 @@ public class recognitionTest
 	    	}
 	    	else
 	    	{	
-	    		voce.SpeechInterface.init("/home/srihari/Downloads/voce-0.9.1/lib", false, true,
-	    	            "/home/srihari/Downloads/voce-0.9.1/lib/gram", "speech");
+	    		voce.SpeechInterface.init("/home/srihari/workspace/Speech/voce-0.9.1/lib", false, true,
+	    	            "/home/srihari/workspace/Speech/voce-0.9.1/lib/gram", "speech");
 
 	        System.out.println("This is a speech recognition test. ");
 
