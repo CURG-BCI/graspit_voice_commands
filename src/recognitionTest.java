@@ -49,7 +49,7 @@ public class recognitionTest
 	    {String s=voceRecognize();
 	        //s="start";
 	        {System.out.println("Pausing");
-	        while(!s.equalsIgnoreCase("begin"))
+	        while(!s.equalsIgnoreCase("start"))
 	        {s=voceRecognize();
 	         System.out.println("Paused! "+s);
 	        }
@@ -91,7 +91,7 @@ public class recognitionTest
 	            {
 	                voicePause();
 	            }
-	            else if(input.equalsIgnoreCase("next")||input.equalsIgnoreCase("switch"))
+	            else if(input.equalsIgnoreCase("next"))
 	            {	
 	            	//ds.write("".getBytes());
 	                ds.write((InputState.MED.ordinal()+"\n").getBytes());
