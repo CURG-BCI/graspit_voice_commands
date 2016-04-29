@@ -1,0 +1,1 @@
+exec java -jar /home/armuser/ros/graspit_bci_plugin/graspit_bci_ws/src/graspit_voice_commands/launch/graspit_voice.jar

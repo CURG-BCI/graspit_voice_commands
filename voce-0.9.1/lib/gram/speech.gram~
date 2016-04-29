@@ -7,4 +7,4 @@
 grammar digits;
 
 
-public <buttons> = (next | select| begin|pause|finish);
+public <buttons> = (next|select|start|pause|close);
